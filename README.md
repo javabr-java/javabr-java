@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Guilherme Cardoso
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Sou apaixonado por tecnologia e inovação, atualmente estou cursando Engenharia Mecatronica na Universidade Estadual de Campinas (UNICAMP).
 Já trabalhei com varios tipos de linguagens, como: Java, SQL, VHDL, Python, HTML e CSS. Tenho muito interesse em automação, desenvolvimento web, back end e criptografia. Dentre as ferramentas que já utilizei, as que se destacam são: VS Code, Quartus II, Eclipse IDE, Jupyter.
