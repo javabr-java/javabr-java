@@ -3,6 +3,7 @@
 🎓 **Estudante de Engenharia Mecatrônica na Unicamp**  
 💻 Apaixonado por tecnologia, programação e inovação 
 
+
 ---
 
 ## 📌 **Sobre Mim**  
@@ -12,7 +13,7 @@
 ---
 
 ## 🛠 **Minhas Habilidades**
-- **Programação:** Python, VHDL, lógica de programação, HTML, CSS e Java.  
-- **Ferramentas:** VS Code, Quartus II.  
+- **Programação:** Python, VHDL, Java e lógica de programação.  
+- **Ferramentas:** VS Code, Quartus II, Eclipse IDE, Jupyter.  
 - **Áreas de Interesse:** Automação, back end, desenvolvimento web entre outros.  
 
